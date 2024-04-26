@@ -24,3 +24,4 @@ For a complete list of every block builder that lands blocks on-chain see [mev-b
 
 # Open-source code
 - [Flashbots builder](https://github.com/flashbots/builder)
+- [mev-rs](https://github.com/ralexstokes/mev-rs)
